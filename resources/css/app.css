@@ -1,0 +1,11 @@
+/* resources/css/app.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your custom styles */
+@layer utilities {
+    .content-area {
+        @apply md:ml-64 lg:mr-80;
+    }
+}

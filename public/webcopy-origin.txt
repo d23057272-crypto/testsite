@@ -1,0 +1,832 @@
+Uri: https://fonts.googleapis.com/css2?family=Dosis:wght@800&amp;display=swap
+File Name: C:\Downloaded Web Sites\knnex.io\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&amp;display=swap
+File Name: C:\Downloaded Web Sites\knnex.io\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Be+Vietnam+Pro:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.5.4
+File Name: C:\Downloaded Web Sites\knnex.io\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.5.4
+File Name: C:\Downloaded Web Sites\knnex.io\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVKSTAyLFyeg_IDWvOJmVES_HwyPac2db8Dcg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVKSTAyLFyeg_IDWvOJmVES_HwyPac2db8Dcg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVKSTAyLFyeg_IDWvOJmVES_HwyPbczdb8Dcg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVKSTAyLFyeg_IDWvOJmVES_HwyPbczdb8Dcg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVKSTAyLFyeg_IDWvOJmVES_HwyPcM3db8Dcg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVKSTAyLFyeg_IDWvOJmVES_HwyPcM3db8Dcg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVKSTAyLFyeg_IDWvOJmVES_HwyPd80db8Dcg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVKSTAyLFyeg_IDWvOJmVES_HwyPd80db8Dcg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVKSTAyLFyeg_IDWvOJmVES_HwyPdMwdb8Dcg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVKSTAyLFyeg_IDWvOJmVES_HwyPdMwdb8Dcg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVKSTAyLFyeg_IDWvOJmVES_HwyPfs1db8Dcg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVKSTAyLFyeg_IDWvOJmVES_HwyPfs1db8Dcg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVKSTAyLFyeg_IDWvOJmVES_HwyPYsxdb8Dcg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVKSTAyLFyeg_IDWvOJmVES_HwyPYsxdb8Dcg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVLSTAyLFyeg_IDWvOJmVES_HwyPRsiYpgj.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVLSTAyLFyeg_IDWvOJmVES_HwyPRsiYpgj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVMSTAyLFyeg_IDWvOJmVES_HS0Im81Rbg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVMSTAyLFyeg_IDWvOJmVES_HS0Im81Rbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVMSTAyLFyeg_IDWvOJmVES_HScJ281Rbg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVMSTAyLFyeg_IDWvOJmVES_HScJ281Rbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVMSTAyLFyeg_IDWvOJmVES_HSMIG81Rbg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVMSTAyLFyeg_IDWvOJmVES_HSMIG81Rbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVMSTAyLFyeg_IDWvOJmVES_HSQI281Rbg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVMSTAyLFyeg_IDWvOJmVES_HSQI281Rbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVMSTAyLFyeg_IDWvOJmVES_HT4JG81Rbg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVMSTAyLFyeg_IDWvOJmVES_HT4JG81Rbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVMSTAyLFyeg_IDWvOJmVES_HTEJm81Rbg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVMSTAyLFyeg_IDWvOJmVES_HTEJm81Rbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVMSTAyLFyeg_IDWvOJmVES_HToIW81Rbg.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVMSTAyLFyeg_IDWvOJmVES_HToIW81Rbg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVNSTAyLFyeg_IDWvOJmVES_HRUNXgSZQ.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVNSTAyLFyeg_IDWvOJmVES_HRUNXgSZQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVNSTAyLFyeg_IDWvOJmVES_HwyNXgSZQ.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVNSTAyLFyeg_IDWvOJmVES_HwyNXgSZQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bevietnampro/v11/QdVPSTAyLFyeg_IDWvOJmVES_Hw3BX8.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\bevietnampro\v11\QdVPSTAyLFyeg_IDWvOJmVES_Hw3BX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dosis/v32/HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7QV3A.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\dosis\v32\HhyJU5sn9vOmLxNkIwRSjTVNWLEJt7QV3A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\s\poppins\v22\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://knnex.io/
+File Name: C:\Downloaded Web Sites\knnex.io\index.htm
+Content Type: text/html
+
+Uri: https://knnex.io/about
+File Name: C:\Downloaded Web Sites\knnex.io\about.html
+Content Type: text/html
+
+Uri: https://knnex.io/Assets/image_805661_26307819.jpg
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\image_805661_26307819.jpg
+Content Type: image/jpeg
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/css/frontend-lite.min08e6.css?ver=3.21.2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\css\frontend-lite.min08e6.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/js/frontend-modules.min08e6.js?ver=3.21.2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\js\frontend-modules.min08e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/js/frontend.min08e6.js?ver=3.21.2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\js\frontend.min08e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/js/webpack.runtime.min08e6.js?ver=3.21.2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\js\webpack.runtime.min08e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min08e6.css?ver=3.21.2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min08e6.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min08e6.css?ver=3.21.2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min08e6.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min08e6.js?ver=3.21.2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min08e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/x-woff
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400d41d.eot?
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/x-woff
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400d41d.eot?
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/x-woff
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900d41d.eot?
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min94a4.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min94a4.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min05da.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/css/elements/main72e6.css?ver=2.6.4
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\css\elements\main72e6.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon7107.eot?bv8d8l
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\fonts\jkiticon\jkiticon7107.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon7107.svg?bv8d8l
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\fonts\jkiticon\jkiticon7107.svg
+Content Type: image/svg+xml
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon7107.ttf?bv8d8l
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\fonts\jkiticon\jkiticon7107.ttf
+Content Type: application/octet-stream
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon7107.woff2?bv8d8l
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\fonts\jkiticon\jkiticon7107.woff2
+Content Type: application/font-woff2
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon7107.woff?bv8d8l
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\fonts\jkiticon\jkiticon7107.woff
+Content Type: font/x-woff
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon72e6.css?ver=2.6.4
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\fonts\jkiticon\jkiticon72e6.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/img/letter-x.svg
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\img\letter-x.svg
+Content Type: image/svg+xml
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/chartjs/chart.mina560.js?ver=3.9.1
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\chartjs\chart.mina560.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/accordion72e6.js?ver=2.6.4
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\elements\accordion72e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/client-logo72e6.js?ver=2.6.4
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\elements\client-logo72e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/countdown72e6.js?ver=2.6.4
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\elements\countdown72e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/fun-fact72e6.js?ver=2.6.4
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\elements\fun-fact72e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/mailchimp72e6.js?ver=2.6.4
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\elements\mailchimp72e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/nav-menu72e6.js?ver=2.6.4
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\elements\nav-menu72e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/pie-chart72e6.js?ver=2.6.4
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\elements\pie-chart72e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/post-pagination72e6.js?ver=2.6.4
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\elements\post-pagination72e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/sticky-element72e6.js?ver=2.6.4
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\elements\sticky-element72e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/testimonials72e6.js?ver=2.6.4
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\elements\testimonials72e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/elements/video-button72e6.js?ver=2.6.4
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\elements\video-button72e6.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/sweetalert2/sweetalert2.min430c.css?ver=11.6.16
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\sweetalert2\sweetalert2.min430c.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/sweetalert2/sweetalert2.min430c.js?ver=11.6.16
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\sweetalert2\sweetalert2.min430c.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-sliderf342.css?ver=2.9.3
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\tiny-slider\tiny-sliderf342.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/assets/js/tiny-slider/tiny-sliderf342.js?ver=2.9.3
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\assets\js\tiny-slider\tiny-sliderf342.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/jeg-elementor-kit/lib/jeg-framework/assets/css/jeg-dynamic-styles6f3e.css?ver=1.3.0
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\jeg-elementor-kit\lib\jeg-framework\assets\css\jeg-dynamic-styles6f3e.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/metform/public/assets/css/metform-ui4ae0.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\metform\public\assets\css\metform-ui4ae0.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/metform/public/assets/css/style4ae0.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\metform\public\assets\css\style4ae0.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/metform/public/assets/css/text-editor4ae0.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\metform\public\assets\css\text-editor4ae0.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/metform/public/assets/js/app4ae0.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\metform\public\assets\js\app4ae0.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/metform/public/assets/js/htm4ae0.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\metform\public\assets\js\htm4ae0.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert4ae0.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\metform\public\assets\lib\cute-alert\cute-alert4ae0.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/plugins/metform/public/assets/lib/cute-alert/style4ae0.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\metform\public\assets\lib\cute-alert\style4ae0.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/template-kit-export/public/assets/css/template-kit-export-public.min365c.css?ver=1.0.21
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\template-kit-export\public\assets\css\template-kit-export-public.min365c.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/plugins/template-kit-export/public/assets/js/template-kit-export-public.min365c.js?ver=1.0.21
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\plugins\template-kit-export\public\assets\js\template-kit-export-public.min365c.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/themes/hello-elementor/assets/js/hello-frontend.min41fe.js?ver=3.0.1
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\themes\hello-elementor\assets\js\hello-frontend.min41fe.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-content/themes/hello-elementor/header-footer.min41fe.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\themes\hello-elementor\header-footer.min41fe.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/themes/hello-elementor/style.min41fe.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\themes\hello-elementor\style.min41fe.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/themes/hello-elementor/theme.min41fe.css?ver=3.0.1
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\themes\hello-elementor\theme.min41fe.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/asset-about-2.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\asset-about-2.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/asset-chart-2.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\asset-chart-2.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/barcode.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\barcode.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/bg-1.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\bg-1.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/bit-1-2.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\bit-1-2.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/bit-2.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\bit-2.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/bit-3.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\bit-3.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/bit-4-2.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\bit-4-2.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/bit-5-1.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\bit-5-1.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/bit-6-1.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\bit-6-1.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/bit-7.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\bit-7.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/bit-8.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\bit-8.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/border-top.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\border-top.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/border.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\border.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/buy-icon.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\buy-icon.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/chart-icon.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\chart-icon.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/close-up-of-handsome-bearded-businessman-in-gray-s-RNG6UC8.jpg
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\close-up-of-handsome-bearded-businessman-in-gray-s-RNG6UC8.jpg
+Content Type: image/jpeg
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/credibility2-icon.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\credibility2-icon.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/crypto-asset-1.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\crypto-asset-1.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/crypto-icon.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\crypto-icon.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/Fictional-company-logo-2-1.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\Fictional-company-logo-2-1.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/Fictional-company-logo-3-1.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\Fictional-company-logo-3-1.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/Fictional-company-logo-4-1.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\Fictional-company-logo-4-1.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/Fictional-company-logo-5-1.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\Fictional-company-logo-5-1.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/Fictional-company-logo-6-1.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\Fictional-company-logo-6-1.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/Fictional-company-logo-7-1.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\Fictional-company-logo-7-1.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/Fictional-company-logo.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\Fictional-company-logo.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/group-of-young-intercultural-professionals-in-casualwear-having-discussion-e1711614676821.jpg
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\group-of-young-intercultural-professionals-in-casualwear-having-discussion-e1711614676821.jpg
+Content Type: image/jpeg
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/Group@3x.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\Group@3x.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/growth-icon.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\growth-icon.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/horizontal-shot-of-pleased-beautiful-european-woma-97BPFPN.jpg
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\horizontal-shot-of-pleased-beautiful-european-woma-97BPFPN.jpg
+Content Type: image/jpeg
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/maps3-DD86FT.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\maps3-DD86FT.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/maxresdefault1@3x.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\maxresdefault1@3x.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/mobile-2.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\mobile-2.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/mobile-3.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\mobile-3.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/mobile-icon.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\mobile-icon.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/photo-of-happy-european-female-with-gentle-smile-APHMHAF.jpg
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\photo-of-happy-european-female-with-gentle-smile-APHMHAF.jpg
+Content Type: image/jpeg
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/portrait-of-cheerful-blonde-young-woman-smiles-gen-CZDTYQ4.jpg
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\portrait-of-cheerful-blonde-young-woman-smiles-gen-CZDTYQ4.jpg
+Content Type: image/jpeg
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/protect-icon.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\protect-icon.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/real-time-icon.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\real-time-icon.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/satisfied-bearded-young-man-looks-confidently-at-c-U34MVYK.jpg
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\satisfied-bearded-young-man-looks-confidently-at-c-U34MVYK.jpg
+Content Type: image/jpeg
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/secure-icon.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\secure-icon.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/software-developer-working-in-office-e1711614684928.jpg
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\software-developer-working-in-office-e1711614684928.jpg
+Content Type: image/jpeg
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/Starcircle.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\Starcircle.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/studio-shot-of-attractive-cheerful-husband-in-casu-7UMTP4T.jpg
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\studio-shot-of-attractive-cheerful-husband-in-casu-7UMTP4T.jpg
+Content Type: image/jpeg
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/support-icon.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\support-icon.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/2024/03/wallet-icon.png
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\2024\03\wallet-icon.png
+Content Type: image/png
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/elementor/css/global1e9f.css?ver=1714038370
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\elementor\css\global1e9f.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/elementor/css/post-149edad.css?ver=1714038371
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\elementor\css\post-149edad.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/elementor/css/post-31e9f.css?ver=1714038370
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\elementor\css\post-31e9f.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/elementor/css/post-630edad.css?ver=1714038371
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\elementor\css\post-630edad.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/elementor/css/post-6334706.css?ver=1714038372
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\elementor\css\post-6334706.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/elementor/css/post-640ce12.css?ver=1714038428
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\elementor\css\post-640ce12.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/elementor/css/post-864db9b.css?ver=1714038507
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\elementor\css\post-864db9b.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-content/uploads/sites/11/elementor/css/post-875fc22.css?ver=1714038508
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-content\uploads\sites\11\elementor\css\post-875fc22.css
+Content Type: text/css
+
+Uri: https://knnex.io/Assets/wp-includes/js/dist/element.min1596.js?ver=cb762d190aebbec25b27
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-includes\js\dist\element.min1596.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-includes/js/dist/escape-html.min3a9d.js?ver=6561a406d2d232a6fbd2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-includes\js\dist\escape-html.min3a9d.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-includes/js/dist/vendor/react-dom.min7a3b.js?ver=18.2.0
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-includes\js\dist\vendor\react-dom.min7a3b.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-includes/js/dist/vendor/react.min7a3b.js?ver=18.2.0
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-includes\js\dist\vendor\react.min7a3b.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-includes/js/dist/vendor/regenerator-runtime.min6c85.js?ver=0.14.0
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-includes\js\dist\vendor\regenerator-runtime.min6c85.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-includes\js\dist\vendor\wp-polyfill-inert.min0226.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-includes\js\dist\vendor\wp-polyfill.min2c7c.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-includes\js\jquery\jquery-migrate.min5589.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-includes\js\jquery\jquery.minf43b.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/Assets/wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\knnex.io\Assets\wp-includes\js\jquery\ui\core.min3f14.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\knnex.io\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/contact
+File Name: C:\Downloaded Web Sites\knnex.io\contact.html
+Content Type: text/html
+
+Uri: https://knnex.io/forgot_password
+File Name: C:\Downloaded Web Sites\knnex.io\forgot_password.html
+Content Type: text/html
+
+Uri: https://knnex.io/images/favicon.ico
+File Name: C:\Downloaded Web Sites\knnex.io\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://knnex.io/images/logo.png
+File Name: C:\Downloaded Web Sites\knnex.io\images\logo.png
+Content Type: image/png
+
+Uri: https://knnex.io/js/alertify/alertify.min.js
+File Name: C:\Downloaded Web Sites\knnex.io\js\alertify\alertify.min.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/js/a_Login.js?att
+File Name: C:\Downloaded Web Sites\knnex.io\js\a_Login.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/js/b_MainSite.js
+File Name: C:\Downloaded Web Sites\knnex.io\js\b_MainSite.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/js/forgot_password.js?att
+File Name: C:\Downloaded Web Sites\knnex.io\js\forgot_password.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/js/Jquery-ui/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\knnex.io\js\Jquery-ui\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/js/panel.js
+File Name: C:\Downloaded Web Sites\knnex.io\js\panel.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/js/Sign-Up.js?ayx
+File Name: C:\Downloaded Web Sites\knnex.io\js\Sign-Up.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/js/u_Name.js
+File Name: C:\Downloaded Web Sites\knnex.io\js\u_Name.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/js/__pushState.js
+File Name: C:\Downloaded Web Sites\knnex.io\js\__pushState.js
+Content Type: application/javascript
+
+Uri: https://knnex.io/login
+File Name: C:\Downloaded Web Sites\knnex.io\login.html
+Content Type: text/html
+
+Uri: https://knnex.io/ScriptResource.axd?d=-e7h39P7w8__U3SpIpc2dFJ9RdQMIgklsmTCw9YZbw4Nrk7miYd-SKOZB5khDyyLy_ddXgwAPQlnQAhLI3GBGaQ_uiIvqVfdeGzmIAjQ-H45ZKwZV5tv12Z5f4WZJlcuKnuytHxiHfMnscWtSiTsKZNO_wjfMv1BibY-1--l4its-8FB0&t=b990ecd
+File Name: C:\Downloaded Web Sites\knnex.io\ScriptResource.axd
+Content Type: application/x-javascript
+
+Uri: https://knnex.io/ScriptResource.axd?d=3BpRrxDWIO7nie0PTtRagWZekVtKY9G0hC3wIvhWYRcxW-sAwAVKmqUGRW_SXUpQRJqz6lCbsEqdxOb7z0-cubaf16zduQ_Z2_ISwQDeUoFVawOkNjxYB-tj47j46ISKWUmL3aYse-0RmmLQnbolAQPJSqhgnjCPJVTQSfePQPW9uclp0&t=b990ecd
+File Name: C:\Downloaded Web Sites\knnex.io\ScriptResource-1.axd
+Content Type: application/x-javascript
+
+Uri: https://knnex.io/ScriptResource.axd?d=KW18xX5gdHDefMpcihIsNG2lUGnCdjrq3bjJRg1P_urnK0CJsExF6Io0nVc15zyXZ4MewPlMmZjFxFsZAAPY26Mzsrr7H6CjqoWXtozPBpOEjs5AXFDDrkUbU7g44C4VEp1KF9DoIia531kE25S3Uf8AbP81&t=6df849d2
+File Name: C:\Downloaded Web Sites\knnex.io\ScriptResource-2.axd
+Content Type: application/x-javascript
+
+Uri: https://knnex.io/Sign-up
+File Name: C:\Downloaded Web Sites\knnex.io\Sign-up.html
+Content Type: text/html
+
+Uri: https://knnex.io/use_phrase
+File Name: C:\Downloaded Web Sites\knnex.io\use_phrase.html
+Content Type: text/html
+
+Uri: https://knnex.io/WebResource.axd?d=5k1hjLJw2NF7keRG9CuDuYorVgIp7pmTwKQXHXzD1xpfKpe_90GEyoOzgqgqtYhNrNbXXJxiZtnKWteL8DGtvEauA5RSEORfthIUmyQi5BUe05M70&t=638627956040000000
+File Name: C:\Downloaded Web Sites\knnex.io\WebResource.axd
+Content Type: application/x-javascript
+
+Uri: https://knnex.io/WebResource.axd?d=e3ETZeu6FiW6uHEXePJW4mipZwhdrrDpE4Gy3gixMGDnDUYK7YUj5bweUUurshb4KafI-MuohgLQ6eNlR1QWYjq3MGk1&t=638627956040000000
+File Name: C:\Downloaded Web Sites\knnex.io\WebResource-1.axd
+Content Type: application/x-javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+File Name: C:\Downloaded Web Sites\knnex.io\beacon.min.js\vcd15cbe7772f49c399c6a5babf22c1241717689176015
+Content Type: text/javascript
+
+Uri: https://templatekit.reavation.com/bitree/wp-content/uploads/sites/11/2024/03/bg-1.png
+File Name: C:\Downloaded Web Sites\knnex.io\bitree\wp-content\uploads\sites\11\2024\03\bg-1.png
+Content Type: image/png
+
+Uri: https://templatekit.reavation.com/bitree/wp-content/uploads/sites/11/2024/03/bg-2.png
+File Name: C:\Downloaded Web Sites\knnex.io\bitree\wp-content\uploads\sites\11\2024\03\bg-2.png
+Content Type: image/png
+
+Uri: https://templatekit.reavation.com/bitree/wp-content/uploads/sites/11/2024/03/border-top.png
+File Name: C:\Downloaded Web Sites\knnex.io\bitree\wp-content\uploads\sites\11\2024\03\border-top.png
+Content Type: image/png
+
+Uri: https://templatekit.reavation.com/bitree/wp-content/uploads/sites/11/2024/03/border.png
+File Name: C:\Downloaded Web Sites\knnex.io\bitree\wp-content\uploads\sites\11\2024\03\border.png
+Content Type: image/png
+
+Uri: https://templatekit.reavation.com/bitree/wp-content/uploads/sites/11/2024/03/mobile-1.png
+File Name: C:\Downloaded Web Sites\knnex.io\bitree\wp-content\uploads\sites\11\2024\03\mobile-1.png
+Content Type: image/png
+
+Uri: https://templatekit.reavation.com/bitree/wp-content/uploads/sites/11/2024/03/mobile-2.png
+File Name: C:\Downloaded Web Sites\knnex.io\bitree\wp-content\uploads\sites\11\2024\03\mobile-2.png
+Content Type: image/png
+

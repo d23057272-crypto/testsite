@@ -1,0 +1,167 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 30 Mar 2025 19:46:14 at https://staco.uigaint.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://staco.uigaint.com/ -O1 "C:\My Web Sites\stack" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:48:40	Error: 	"Method Not Allowed" (405) at link https://staco.uigaint.com/xmlrpc.php (from https://staco.uigaint.com/)
+20:04:29	Warning: 	File not parsed, looks like binary: https://staco.uigaint.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.20.0
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/icons/arrow-right-white.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/icons/dropdown-toggle.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/hero/top-header-bg.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/img/icons/mobile-nav-minus.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/img/icons/mobile-nav-plus.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/hero/wave-line.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/hero/curve-line.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/icons/hoogle-icon.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/hero/map-bg.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/icons/shape-left.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/chatbot/chatbot-banner-grident.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/defi/defi-banner-bg.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/crypto-token/grain-texture.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/crypto-token/bg_footer.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/usability/dotted-bg.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/icons/check-green.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/meeting/grain-texture.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/meeting/mesh-grad.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/meeting/shape.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/testimonial/bg-shape.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/bg-question.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/building/fram-4.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/chatbot/card-shape1.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/chatbot/card-shape2.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/chatbot/list-bullet.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/icons/check.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/nft/category.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/nft/box.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/nft/candle.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/icons/badge-icon.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/icons/polygon.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/newslater/newsletter-mashgrad.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/footer/footer-testimonial-bg.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/index8/footer-testimonial-bg.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/app/hover_effect.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/app/hover_effect.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/corporate/map.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/corporate/icon-prev.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/corporate/icon-next.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/corporate/card-footer-icon1.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/corporate/card-footer-icon2.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/corporate/testimonial-bg.jpg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/corporate/quotes-bg.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/corporate/consultation-bg.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/corporate/footer-top-bg1.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/corporate/footer-top-bg2.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/corporate/footer-top-bg3.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/crypto2/metavarse-bg.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/defi/defi-safe-platform-bg.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/defi/list-bulete.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/style.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/img/theme/check-list2.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/custom.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/icon-next.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/custom.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/images/icon-prev.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/custom.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/img/theme/quotes-bg.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/custom.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/img/theme/pin-icon.png (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/custom.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/img/theme/icon-prev.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/custom.css?ver=1.0.0)
+20:04:30	Error: 	"Not Found" (404) at link https://staco.uigaint.com/wp-content/themes/staco/assets/img/theme/icon-next.svg (from https://staco.uigaint.com/wp-content/themes/staco/assets/css/custom.css?ver=1.0.0)
+20:04:30	Warning: 	File not parsed, looks like binary: https://staco.uigaint.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+20:04:39	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=884
+20:04:39	Warning: 	File has moved from https://staco.uigaint.com/?p=884 to https://staco.uigaint.com/customer-service/
+20:04:42	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=1226
+20:04:42	Warning: 	File has moved from https://staco.uigaint.com/?p=1226 to https://staco.uigaint.com/team-collaboration/
+20:04:50	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=2366
+20:04:50	Warning: 	File has moved from https://staco.uigaint.com/?p=2366 to https://staco.uigaint.com/saas-landing-one/
+20:05:11	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=11223
+20:05:11	Warning: 	File has moved from https://staco.uigaint.com/?p=11223 to https://staco.uigaint.com/home-sass-landing/
+20:05:12	Error: 	"Not Found" (404) at link https://staco.uigaint.com/home-sass-landing/Launch App (from https://staco.uigaint.com/home-sass-landing/)
+20:05:16	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=7212
+20:05:16	Warning: 	File has moved from https://staco.uigaint.com/?p=7212 to https://staco.uigaint.com/app-landing/
+20:05:47	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=8880
+20:05:47	Warning: 	File has moved from https://staco.uigaint.com/?p=8880 to https://staco.uigaint.com/corporate-home/
+20:05:57	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=8429
+20:05:57	Warning: 	File has moved from https://staco.uigaint.com/?p=8429 to https://staco.uigaint.com/crypto-wallet/
+20:06:36	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=9430
+20:06:36	Warning: 	File has moved from https://staco.uigaint.com/?p=9430 to https://staco.uigaint.com/crypto-wallet-2/
+20:07:30	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=10296
+20:07:30	Warning: 	File has moved from https://staco.uigaint.com/?p=10296 to https://staco.uigaint.com/crypto-token/
+20:08:20	Error: 	"Not Found" (404) at link https://staco.uigaint.com/crypto-token/assets/images/crypto-token/whitepaper.png (from https://staco.uigaint.com/crypto-token/)
+20:08:39	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=10716
+20:08:39	Warning: 	File has moved from https://staco.uigaint.com/?p=10716 to https://staco.uigaint.com/defi-web3/
+20:08:40	Error: 	"Not Found" (404) at link https://staco.uigaint.com/defi-web3/Launch App (from https://staco.uigaint.com/defi-web3/)
+20:09:02	Error: 	"Not Found" (404) at link https://staco.uigaint.com/defi-web3/href= (from https://staco.uigaint.com/defi-web3/)
+20:09:18	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=7556
+20:09:18	Warning: 	File has moved from https://staco.uigaint.com/?p=7556 to https://staco.uigaint.com/newsletter/
+20:09:19	Error: 	"Not Found" (404) at link https://staco.uigaint.com/newsletter/View On (from https://staco.uigaint.com/newsletter/)
+20:09:21	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=3383
+20:09:21	Warning: 	File has moved from https://staco.uigaint.com/?p=3383 to https://staco.uigaint.com/finance/
+20:09:49	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=6374
+20:09:49	Warning: 	File has moved from https://staco.uigaint.com/?p=6374 to https://staco.uigaint.com/home-chatbot/
+20:09:58	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=2007
+20:09:58	Warning: 	File has moved from https://staco.uigaint.com/?p=2007 to https://staco.uigaint.com/business/
+20:09:58	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=4989
+20:09:58	Warning: 	File has moved from https://staco.uigaint.com/?p=4989 to https://staco.uigaint.com/accounting/
+20:09:58	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=1395
+20:09:58	Warning: 	File has moved from https://staco.uigaint.com/?p=1395 to https://staco.uigaint.com/about-us/
+20:09:59	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=30
+20:09:59	Warning: 	File has moved from https://staco.uigaint.com/?p=30 to https://staco.uigaint.com/services/
+20:10:01	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=5389
+20:10:01	Warning: 	File has moved from https://staco.uigaint.com/?p=5389 to https://staco.uigaint.com/pricing-plans/
+20:10:29	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=11128
+20:10:29	Warning: 	File has moved from https://staco.uigaint.com/?p=11128 to https://staco.uigaint.com/defi-industry-amid-rising-popularity/
+20:10:36	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=25
+20:10:36	Warning: 	File has moved from https://staco.uigaint.com/?p=25 to https://staco.uigaint.com/contact-us/
+20:10:39	Warning: 	File not parsed, looks like binary: https://staco.uigaint.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+20:10:41	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=12512
+20:10:41	Warning: 	File has moved from https://staco.uigaint.com/?p=12512 to https://staco.uigaint.com/metaverse-tokens-explained/
+20:10:55	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=12510
+20:10:55	Warning: 	File has moved from https://staco.uigaint.com/?p=12510 to https://staco.uigaint.com/the-importance-of-tokenization/
+20:10:59	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=12508
+20:10:59	Warning: 	File has moved from https://staco.uigaint.com/?p=12508 to https://staco.uigaint.com/the-future-of-cryptocurrency/
+20:10:59	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=12501
+20:10:59	Warning: 	File has moved from https://staco.uigaint.com/?p=12501 to https://staco.uigaint.com/investing-in-the-future/
+20:11:08	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=11126
+20:11:08	Warning: 	File has moved from https://staco.uigaint.com/?p=11126 to https://staco.uigaint.com/partnership-with-major-defi-company/
+20:11:08	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=11121
+20:11:08	Warning: 	File has moved from https://staco.uigaint.com/?p=11121 to https://staco.uigaint.com/launches-new-feature-allowing-swaps/
+20:11:08	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=769
+20:11:08	Warning: 	File has moved from https://staco.uigaint.com/?p=769 to https://staco.uigaint.com/careers/
+20:11:08	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=761
+20:11:08	Warning: 	File has moved from https://staco.uigaint.com/?p=761 to https://staco.uigaint.com/faqs/
+20:11:08	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=14338
+20:11:08	Warning: 	File has moved from https://staco.uigaint.com/?p=14338 to https://staco.uigaint.com/the-power-of-ai-in-sales-7-ways-you-can-use-it-in/
+20:11:08	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=14336
+20:11:08	Warning: 	File has moved from https://staco.uigaint.com/?p=14336 to https://staco.uigaint.com/ai-chatbots-for-hospitality-industry-solutions/
+20:11:08	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=6260
+20:11:08	Warning: 	File has moved from https://staco.uigaint.com/?p=6260 to https://staco.uigaint.com/convenient-way-to-find-financial-advisors-in-your-business-area/
+20:12:20	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=1243
+20:12:20	Warning: 	File has moved from https://staco.uigaint.com/?p=1243 to https://staco.uigaint.com/how-business-automation-can-improve-customer-service/
+20:12:20	Warning: 	Retry after error -4 (Connect Error) at link localhost/bithu/wp-content/uploads/2022/06/item-img-min.png (from https://staco.uigaint.com/how-business-automation-can-improve-customer-service/)
+20:12:20	Warning: 	Retry after error -4 (Connect Error) at link localhost/bithu/wp-content/uploads/2022/06/item-img2-min.png (from https://staco.uigaint.com/how-business-automation-can-improve-customer-service/)
+20:12:23	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=14340
+20:12:23	Warning: 	File has moved from https://staco.uigaint.com/?p=14340 to https://staco.uigaint.com/microsoft-innovations-empowering-the-mobile-experience/
+20:12:23	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=6261
+20:12:23	Warning: 	File has moved from https://staco.uigaint.com/?p=6261 to https://staco.uigaint.com/make-your-website-ranking-in-top-ten-3/
+20:12:23	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=6262
+20:12:23	Warning: 	File has moved from https://staco.uigaint.com/?p=6262 to https://staco.uigaint.com/seamless-integration-with-salesforce-hubspot-2/
+20:12:23	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=6264
+20:12:23	Warning: 	File has moved from https://staco.uigaint.com/?p=6264 to https://staco.uigaint.com/seamless-integration-with-salesforce-hubspot/
+20:12:23	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=1260
+20:12:23	Warning: 	File has moved from https://staco.uigaint.com/?p=1260 to https://staco.uigaint.com/how-business-automation-can-improve-customer-service-2/
+20:12:23	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=6263
+20:12:23	Warning: 	File has moved from https://staco.uigaint.com/?p=6263 to https://staco.uigaint.com/make-your-website-ranking-in-top-ten-2/
+20:12:23	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=14278
+20:12:23	Warning: 	File has moved from https://staco.uigaint.com/?p=14278 to https://staco.uigaint.com/casinos-craps-how-to-set-up-the-ultimate-dice-game-experience/
+20:12:23	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=14275
+20:12:23	Warning: 	File has moved from https://staco.uigaint.com/?p=14275 to https://staco.uigaint.com/enhance-your-poker-game-with-x-ray-contact-lenses/
+20:12:23	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=14272
+20:12:23	Warning: 	File has moved from https://staco.uigaint.com/?p=14272 to https://staco.uigaint.com/unlock-strategic-insights-with-marked-card-decks/
+20:12:23	Warning: 	Moved Permanently for https://staco.uigaint.com/?p=1245
+20:12:23	Warning: 	File has moved from https://staco.uigaint.com/?p=1245 to https://staco.uigaint.com/make-your-website-ranking-in-top-ten/
+20:12:23	Warning: 	Retry after error -4 (Connect Error) at link localhost/bithu/wp-content/uploads/2022/06/item-img-min.png (from https://staco.uigaint.com/how-business-automation-can-improve-customer-service/)
+20:12:23	Warning: 	Retry after error -4 (Connect Error) at link localhost/bithu/wp-content/uploads/2022/06/item-img2-min.png (from https://staco.uigaint.com/how-business-automation-can-improve-customer-service/)
+20:12:25	Error: 	"Connect Error" (-4) after 2 retries at link localhost/bithu/wp-content/uploads/2022/06/item-img-min.png (from https://staco.uigaint.com/how-business-automation-can-improve-customer-service/)
+20:12:25	Error: 	"Connect Error" (-4) after 2 retries at link localhost/bithu/wp-content/uploads/2022/06/item-img2-min.png (from https://staco.uigaint.com/how-business-automation-can-improve-customer-service/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 minutes 11 seconds : 1097 links scanned, 985 files written (71947639 bytes overall) [63823641 bytes received at 40626 bytes/sec], 12707920 bytes transferred using HTTP compression in 125 files, ratio 16%, 1.5 requests per connection
+(65 errors, 91 warnings, 0 messages)

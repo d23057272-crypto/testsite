@@ -1,0 +1,1 @@
+﻿function ValidateDetails(obj,args){var _o=$('[id*=Lblmsg]');if($.trim($("input[id*=U_Name]").val())===""){_o.html("Please Input Your Account ID");_o.attr('class','alert alert-danger');args.IsValid=false;return}_o.html("Authenticating...");_o.attr('class','alert alert-info');args.IsValid=true}

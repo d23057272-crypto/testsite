@@ -1,0 +1,27 @@
+
+
+*** How to upload scripts ***
+
+// Download and Extract the zip file to public directory or sub folder or sub domain
+
+// Create a New Database and Import database.sql file inside SQL Folder
+
+// Edit the .env and set database
+
+
+
+
+admin login page is same as user login page
+Email: admin@admin.com
+Password: admin123
+
+for user
+add livechat to resources/views/layouts/user/app.blade.php
+for frontend  add it to  resources/views/layouts/welcome.blade.php
+
+
+
+
+
+
+
